@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/button.xml" value="0.1435" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/button_look.xml" value="0.143" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/button_report.xml" value="0.143" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/button_write.xml" value="0.143" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/splash.xml" value="0.1435" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/drawable/splash_back.xml" value="0.1435" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_api.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_auth.xml" value="0.2" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_map.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_report.xml" value="0.264" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_splash.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/activity_web_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/fragment_retrofit.xml" value="0.1" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/fragment_setting.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/fragment_xml.xml" value="0.1" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/item_list.xml" value="0.2" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/layout/item_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/menu/menu_add.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/htndu/Documents/AndroidStudioProjects/Jaywalking/app/src/main/res/xml/settings.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

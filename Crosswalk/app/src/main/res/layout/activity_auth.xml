@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_vertical"
+    android:id="@+id/authLayout"
+    tools:context=".AuthActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그아웃"
+        android:id="@+id/authMainTextView"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:textColor="@color/black"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그아웃"
+        android:id="@+id/logoutBtn"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        android:visibility="gone" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="E-mail"
+        android:id="@+id/authEmailEditView"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="20dp"
+        android:visibility="gone" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:id="@+id/authPasswordEditView"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="가입"
+        android:id="@+id/signBtn"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그인"
+        android:id="@+id/loginBtn"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입"
+        android:id="@+id/goSignInBtn"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kakao_login_medium_wide"
+        android:backgroundTint="#00ff0000"
+        android:id="@+id/kakaoLogin"
+        android:layout_marginTop="20dp"
+        android:visibility="gone" />
+
+</LinearLayout>

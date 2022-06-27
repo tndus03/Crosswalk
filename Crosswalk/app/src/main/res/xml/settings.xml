@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="notification"
+        app:title="알림 설정">
+
+        <ListPreference
+            app:key="noti"
+            app:title="푸시 알림 설정"
+            android:entries="@array/notification"
+            app:entryValues="@array/notification_value" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:key="etc"
+        app:title="기타 설정">
+
+        <EditTextPreference
+            app:key="id"
+            app:title="ID 설정" />
+
+        <ListPreference
+            app:key="color"
+            app:title="색상 선택"
+            android:entries="@array/my_color"
+            app:entryValues="@array/my_color_value" />
+
+        <ListPreference
+            android:entries="@array/font"
+            android:entryValues="@array/font_value"
+            app:key="@string/font"
+            app:title="폰트 설정" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

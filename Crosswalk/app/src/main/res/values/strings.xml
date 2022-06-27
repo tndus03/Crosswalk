@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crosswalk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tway_air" translatable="false">티웨이항공체</string>
+    <string name="myyeongnamnu" translatable="false">밀양영남루체</string>
+    <string name="tway_air_mode">티웨이항공체</string>
+    <string name="myyeongnamnu_mode">밀양영남루체</string>
+    <string name="font" translatable="false">font</string>
+    <string name="pref_night_title">Night mode</string>
+    <string name="pref_night_summary">Select a dark or light theme.</string>
+    <string name="pref_night_dialog">Set Night mode</string>
+</resources>

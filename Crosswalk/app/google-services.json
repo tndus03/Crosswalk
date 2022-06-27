@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774374535809",
+    "project_id": "jaywalking-d91dc",
+    "storage_bucket": "jaywalking-d91dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774374535809:android:ef85ebecc2a998e60f5380",
+        "android_client_info": {
+          "package_name": "com.example.jaywalking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774374535809-8arn9cu5mttabla3fo7kctn9on6m7r7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaywalking",
+            "certificate_hash": "c19dcc277a82954d2dd1720b925447d73466ad7f"
+          }
+        },
+        {
+          "client_id": "774374535809-129n5skvmsi32efh5tuh9qf6r6fvq57c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwCAHRcBbNru_lI5ptu0H6uICF-Jmkgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774374535809-129n5skvmsi32efh5tuh9qf6r6fvq57c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_color">
+        <item>ivory</item>
+        <item>white</item>
+        <item>blue</item>
+        <item>purple</item>
+    </string-array>
+    
+    <string-array name="my_color_value">
+        <item>#E6E3DC</item>
+        <item>#FFFFFF</item>
+        <item>#C7DBF9</item>
+        <item>#DBC8EE</item>
+    </string-array>
+
+    <string-array name="notification">
+        <item>푸시 알림 허용</item>
+        <item>푸시 알림 거부</item>
+    </string-array>
+
+    <string-array name="notification_value">
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+
+    <string-array name="font">
+        <item>@string/tway_air_mode</item>
+        <item>@string/myyeongnamnu_mode</item>
+    </string-array>
+
+    <string-array name="font_value">
+        <item>@string/tway_air</item>
+        <item>@string/myyeongnamnu</item>
+    </string-array>
+</resources>
